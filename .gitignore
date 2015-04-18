@@ -1,0 +1,10 @@
+.DS_Store
+.cache
+.classpath
+.project
+.settings/
+.worksheet/
+bin/
+build.sbt
+project/
+target/
